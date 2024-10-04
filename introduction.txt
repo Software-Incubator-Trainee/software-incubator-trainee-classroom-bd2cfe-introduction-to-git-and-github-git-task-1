@@ -1,1 +1,4 @@
-My name is Kartikay Singh Pundir and I am a student of B.Tech CSE(AIML) branch 2nd year.I am a student of AJAY KUMAR GARG ENGINEERING COLLEGE. I love to Play Football and I play as a striker Also listening to music is my hobby. My skill set is C++,C, HTML, CSS, JS.
+My name is Kartikay Singh Pundir and I am a student of B.Tech CSE(AIML) branch 2nd year
+I am a student of AJAY KUMAR GARG ENGINEERING COLLEGE
+I love to Play Football and I play as a striker Also listening to music is my hobby. 
+My skill set is C++,C, HTML, CSS, JS.
